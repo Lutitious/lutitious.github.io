@@ -1,0 +1,19 @@
+/*Create a black background with white text and set the font to arial*/
+body {
+    background-color: black;
+    color: white;
+    font-family: arial;
+}
+
+#sus-button {
+    background-color: rgb(99, 36, 158);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
